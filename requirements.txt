@@ -8,4 +8,5 @@ torch
 transformers
 requests
 streamlit-autorefresh
-sentencepiece
+sentencepiece==0.1.99 --prefer-binary
+
