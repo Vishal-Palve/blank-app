@@ -1,1 +1,11 @@
 streamlit
+yfinance
+pandas
+numpy
+matplotlib
+plotly
+torch
+transformers
+requests
+streamlit-autorefresh
+sentencepiece
